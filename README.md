@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/asamidinov173/Running-Sum-of-1d-Array/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/asamidinov173/Running-Sum-of-1d-Array/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

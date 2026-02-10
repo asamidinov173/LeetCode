@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asamidinov173/Running-Sum-of-1d-Array/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/asamidinov173/Running-Sum-of-1d-Array/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/asamidinov173/Running-Sum-of-1d-Array/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
